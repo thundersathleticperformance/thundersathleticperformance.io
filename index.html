@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
-    <style>
+ <style>
         body {
             background: #0;
             color: #cccccc;
@@ -23,8 +23,12 @@
             margin: 0;
             padding: 0;
             border: 0;
-            width: 100vw;
-            height: 90vh;
+            width: 100vw; /* Default width for mobile */
+            height: 90vh; /* Default height for mobile */
+        }
+        .desktop canvas {
+            width: 100px; /* Width for desktop */
+            height: 90px; /* Height for desktop */
         }
         .gm4html5_div_class {
             margin: 0;
