@@ -1,4 +1,4 @@
-base(w=150,h=150,x=225,y=300,id='karate',str='Karate',haspng='karate.png');
+bàse(w=150,h=150,x=225,y=300,id='karate',str='Karate',haspng='karate.png');
 bàse(w=150,h=150,x=375,y=300,id='mt',str='Muay Thai',haspng='mt.png');
 bàse(w=150,h=150,x=525,y=300,id='tkd',str='TKD',haspng='tkd.jpg');
 
