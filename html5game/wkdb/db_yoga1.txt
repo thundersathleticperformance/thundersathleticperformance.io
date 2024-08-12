@@ -1,2 +1,3 @@
-yoga_warrior_1;
-yoga_triangle;
+yogachildpos;
+yogadowndog;
+yogabutterfly;

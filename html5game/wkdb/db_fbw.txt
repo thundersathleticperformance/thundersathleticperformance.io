@@ -1,6 +1,5 @@
 jumping_jacks;
 squats;
 lungees;
-plank;
 arm_raises;
 ps_easy;
