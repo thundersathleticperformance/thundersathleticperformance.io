@@ -293,7 +293,7 @@ function updateCSS() {
             padding: 0;
             border: 0;
             width: 100%;
-            height: 100%;
+            height:  90%;
             overflow: hidden; /* Prevent scrollbars */
         }
 
@@ -302,7 +302,7 @@ function updateCSS() {
             top: 0;
             left: 0;
             width: 100vw; /* Full viewport width */
-            height: 100vh; /* Full viewport height */
+            height:  90vh; /* Full viewport height */
             image-rendering: optimizeSpeed;
             -webkit-interpolation-mode: nearest-neighbor;
             -ms-touch-action: none;
@@ -313,22 +313,22 @@ function updateCSS() {
 
         :-webkit-full-screen {
             width: 100%;
-            height: 100%;
+            height:  90%;
         }
 
         :-moz-full-screen {
             width: 100%;
-            height: 100%;
+            height:  90%;
         }
 
         :-ms-fullscreen {
             width: 100%;
-            height: 100%;
+            height:  90%;
         }
 
         fullscreen {
             width: 100%;
-            height: 100%;
+            height:  90%;
         }
     `;
 
